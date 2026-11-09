@@ -1,0 +1,5 @@
+# Copy to floors.txt. item = lowest price in dollars, or skip.
+# item is the product slug (end of its bhopp.com URL) or its full name.
+harvester = 5.00
+batwing = 3.25
+corrupt = skip

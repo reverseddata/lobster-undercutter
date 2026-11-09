@@ -1,0 +1,7 @@
+.env
+floors.txt
+state.json
+.git
+.venv
+tests
+__pycache__
